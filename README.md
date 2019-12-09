@@ -9,7 +9,7 @@ Il s'agit d'un modèle de statuts de SAS à capital variable modifié de sorte �
 
 L'existant
 
-La société est à capital variable pour qu'elle puisse accueillir des nouveaux associés sans besoin de modifier les statuts. La DAO qui aura été déployée avant la SAS permet aux associés de faire des apports (en nature) en cryptomonnaies à la société, de voter les décisions collectives, et tient lieu de registre de mouvemment titres. Autrement dit, chacun peut acheter des actions tokenisées de la société et instantanément devenir officiellement associé pour voter et toucher des dividendes.
+La société est à capital variable pour qu'elle puisse accueillir des nouveaux associés sans besoin de modifier les statuts. La DAO qui aura été déployée avant la SAS permet aux associés de faire des apports (en nature) en cryptomonnaies à la société, de voter les décisions collectives, et tient lieu de registre de mouvement de titres. Autrement dit, chacun peut acheter des actions tokenisées de la société et instantanément devenir associé pour voter et toucher des dividendes.
 
 
 A venir
